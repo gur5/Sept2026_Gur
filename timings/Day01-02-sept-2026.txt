@@ -1,4 +1,4 @@
-30 min  - git code
-an hour - english
-2 hours - linux videos
-an hour - ip address
+1 hour: Git
+30 minutes: English
+3.5 hours: Linux videos
+1 hour: IP addresses and domain names
