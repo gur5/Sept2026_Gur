@@ -1,0 +1,3 @@
+2 hour: linux commands and AWS 
+30 minutes: English
+3 hours: Linux videos
