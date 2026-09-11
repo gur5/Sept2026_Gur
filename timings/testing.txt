@@ -1,2 +1,9 @@
+<<<<<<< HEAD
+30 min  - git code
+an hour - english
+2 hours - linux videos
+an hour - ip address
+=======
 test
 
+>>>>>>> 671bd268bc696bcbaad6e94475bb35a606364214
